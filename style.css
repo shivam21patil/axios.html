@@ -1,0 +1,138 @@
+.navbar{
+  background-color: black;
+}
+
+.b{
+ background-color:rgb(62, 209, 243);
+}
+.pppp{
+  font-size: 20pt;
+}
+
+.nav-link{
+  font-family: serif;
+  color: white;
+  font-size: 12pt;
+  background-color: black;
+
+}
+
+.la{
+  border: 1px solid black;
+  color: black;
+  background-color: white;
+  border-radius: 8px;
+  width: 100px;
+  font-size: 10pt;
+  text-align: center;
+  padding: 0.5%;
+}
+.la1
+{
+  margin-left: 35%;
+
+}
+.card-img-overlay{
+  color: white;
+}
+.card1{
+    background-image: url("img20.jpg");
+    background-size: cover;
+
+}
+.card1-title{
+  background-color: black;
+  color: #0cf0f6;
+  text-align: center;
+  padding: 1px;
+  border: 2px solid red;
+border-radius: 15px;
+width: 205px;
+
+  box-shadow: 0 10px 20px rgba(255, 0, 0, 0.5);
+}
+
+
+.tab{
+  width: 60%;
+  background-color: black;
+}
+.click{
+  text-align:left;
+  color: #0cf0f6;
+
+}
+.h{
+  text-align: center;
+  text-decoration: none;
+  color: black;
+}
+
+
+
+.hi{
+  text-decoration: none;
+  font-family: serif;
+  color: #0cf0f6;
+}
+.card-link{
+  text-decoration: none;
+  font-family: serif;
+  color: #0cf0f6;
+}
+.abus{
+font-family: serif;
+text-decoration:underline;
+
+}
+.carousel-inner
+{
+  height:100vh;
+  width: 1200px;
+}
+
+.d-block{
+  height:100vh;
+  width: 1200px;
+}
+
+.sos{
+  background-color: black;
+  color: #0cf0f6;
+  text-align: center;
+  padding: 1px;
+  border: 2px solid red;
+border-radius: 15px;
+width: 205px;
+margin-left: 78%;
+
+}
+ }
+.feat{
+  text-align: center;
+  height: 100vh;
+    background-color: white;
+    clip-path: polygon(30% 0%, 100% 0, 100% 37%, 100% 37%, 49% 81%, 48% 81%, 0 40%, 0 0);
+    font-size: 14pt;
+    background-image: linear-gradient(rgb(19, 215, 241), rgb(19, 215, 241));
+    background-size: cover;
+    /* margin-top: -19%; */
+}
+.its{
+  margin-left: 30%;
+  text-align: justify;
+}
+
+.contact{
+  height: 100vh;
+clip-path: polygon(0 25%, 100% 5%, 100% 93%, 0 94%);
+background-image: url("img8.jpg");
+background-size: cover;
+
+}
+
+.co{
+  text-align: center;
+  color: black;
+  font-size: 60pt;
+}
